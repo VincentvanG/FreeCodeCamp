@@ -1,8 +1,4 @@
-<style>
-  h2 {
-    color: red;
-  }
-  </style>
+ <link rel="stylesheet" type = "text/css" href="cats.css">
 
 <h2>CatPhotoApp</h2>
 <main>
