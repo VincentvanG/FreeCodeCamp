@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type = "text/css" href="https://github.com/VincentvanG/BasicCSS/cats.css">
+<link rel="stylesheet" type = "text/css" href="https://github.com/VincentvanG/cats.css">
 <html>
 <body>
 <h2>CatPhotoApp</h2>
